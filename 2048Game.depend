@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1465511812 source:h:\codex\2048game\main.cpp
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<vector>
+	<stdlib.h>
+	"upperShift.h"
+	"random.h"
+	"print.h"
+	"leftShift.h"
+	"rightShift.h"
+	"lowerShift.h"
+
+1465512406 h:\codex\2048game\print.h
+	<stdio.h>
+	<iostream>
+
+1465457958 h:\codex\2048game\leftshift.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1465506768 h:\codex\2048game\rightshift.h
+	<stdio.h>
+	<stdlib.h>
+
+1465507540 h:\codex\2048game\lowershift.h
+	<stdio.h>
+
+1465457632 h:\codex\2048game\random.h
+	<stdlib.h>
+	<stdio.h>
+	<vector>
+
+1465506889 h:\codex\2048game\uppershift.h
+	<stdio.h>
+
